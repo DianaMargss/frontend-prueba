@@ -20,45 +20,8 @@
       <div id="navbar3" class="navbar-collapse collapse "style="float:right!important;">
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a href="#">Home</a></li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Who We Are</a></li>
-              <hr>
-              <li><a href="#">Our team</a></li>
-              <hr>
-              <li><a href="#">Agency Manual Report</a></li>
-              <hr>
-              <li><a href="#">Reports and publications</a></li>
-              <hr>
-              <li><a href="#">Carrer</a></li>
-            </ul>
-          </li>
-
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="caret"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              <li class="dropdown"><a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Positive Youth Develepment<span class="caret"></span></a></li>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="#">Our team</a></li>
-                <hr>
-                <li><a href="#">Agency Manual Report</a></li>
-                <hr>
-                <li><a href="#">Reports and publications</a></li>
-                <hr>
-                <li><a href="#">Carrer</a></li>
-              </ul>
-              <hr>
-              <li><a href="#">Our team</a></li>
-              <hr>
-              <li><a href="#">Agency Manual Report</a></li>
-              <hr>
-              <li><a href="#">Reports and publications</a></li>
-              <hr>
-              <li><a href="#">Carrer</a></li>
-            </ul>
-          </li>
-
+          <li>  <a href="#" >About</a></li>
+          <li><a href="#">Services</a>
           <li><a href="#">News</a></li>
           <li><a href="#">Contact</a></li>
 

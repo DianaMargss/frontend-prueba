@@ -102,8 +102,9 @@
           <h3><strong>Building character that lasts</strong> </h3><br>
           <p>Gang Alternative, Inc. was incorporated as a 501c3 in 2005 resulting from the need to take community-focused outreach and resource development approaches to addressing the high crime and high violence situation in Miami-Dade County. It was founded in faith and evolved with the understanding that there is more to ministry work than just teaching “Bible stuff." </p>
           <button type="button" class="btn btn-primary">learn more</button>
-          <br>
+
         </div>
+        <br>
   <div class="col-sm-6">
     <div id="myCarouselAlternative" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
@@ -161,25 +162,24 @@
   </div>
 
 <div class="carousel-inner">
-  <div>
-    <img src="images/get-involved-crop.jpg" style="width:100%;">
+  <!-- <div> -->
+    <img src="images/get-involved-crop.jpg" style="width:100%; height:100%;">
     <div class="header-text header-text-involved">
           <div class="container-get-involved">
             <div class="col-md-12 text-center">
                 <h2><strong>GET INVOLVED</strong></h2>
                 <h3><strong>Help us make a bigger impact</strong></h3>
                 <br>
-                <p>Volunteering is all about giving, contributing, and helping other individuals and the community at large. GA has a
+                <p class="p-involved">Volunteering is all about giving, contributing, and helping other individuals and the community at large. GA has a
                    robust prevention track record. Our crowning achievement is our long-term success rate. 85% of the young people c
-                   oming through our doors have gone on to become positive, productive adults. The more we work together, the greater
-                   our impact.Many GA alumni serve as leaders and mentors for some of the organization’s programs.
+                   oming through our doors have gone on to become positive, productive adults.
                 </p>
                 <br>
                 <button type="button" class="btn btn-primary">make a donation today</button>
           </div>
     </div>
     </div>
-  </div>
+  <!-- </div> -->
 
 </div>
 <div class="jumbotron jumbotron-carousel-logo">
@@ -285,8 +285,8 @@
                                 <img src="http://mygangalternative.org/wp-content/themes/ga/img/assets/logo.png" alt="">
                             </a>
                         </div>
-                        <div class="col-md-8 col-sm-8">
-                            <div class="footer-info">
+                        <div class="col-md-8 col-sm-8 auto-center">
+                            <div class="footer-info auto-center">
                                 <div class="title">Corporate Headquarters</div>
                                 (786) 361-2375<br>
                                 6620 N. Miami Ave.<br>
